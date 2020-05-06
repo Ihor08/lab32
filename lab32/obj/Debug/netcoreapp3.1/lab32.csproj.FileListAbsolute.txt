@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\lab32\lab32\bin\Debug\netcoreapp3.1\lab32.exe
+C:\Users\User\source\repos\lab32\lab32\bin\Debug\netcoreapp3.1\lab32.deps.json
+C:\Users\User\source\repos\lab32\lab32\bin\Debug\netcoreapp3.1\lab32.runtimeconfig.json
+C:\Users\User\source\repos\lab32\lab32\bin\Debug\netcoreapp3.1\lab32.runtimeconfig.dev.json
+C:\Users\User\source\repos\lab32\lab32\bin\Debug\netcoreapp3.1\lab32.dll
+C:\Users\User\source\repos\lab32\lab32\bin\Debug\netcoreapp3.1\lab32.pdb
+C:\Users\User\source\repos\lab32\lab32\obj\Debug\netcoreapp3.1\lab32.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab32\lab32\obj\Debug\netcoreapp3.1\lab32.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab32\lab32\obj\Debug\netcoreapp3.1\lab32.AssemblyInfo.cs
+C:\Users\User\source\repos\lab32\lab32\obj\Debug\netcoreapp3.1\lab32.dll
+C:\Users\User\source\repos\lab32\lab32\obj\Debug\netcoreapp3.1\lab32.pdb
